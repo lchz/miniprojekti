@@ -1,8 +1,11 @@
 # Helsingin yliopiston tietojenkäsittelytieteen ohjelmistotuotannon kurssin miniprojekti
 
 [![CircleCI](https://circleci.com/gh/noorary/miniprojekti.svg?style=svg)](https://circleci.com/gh/noorary/miniprojekti)
-
 [![codecov](https://codecov.io/gh/noorary/miniprojekti/branch/master/graph/badge.svg)](https://codecov.io/gh/noorary/miniprojekti)
+
+Projektin tarkoituksena on rakentaa lukuvinkeille sovelluksen, jossa erilaiset linkit ja muut muistiinpanot pystyisivät järjestyksessä.
+
+Sovellus sisältää lisäys-, selaus-, ja poisto-toiminnallisuudet. Lisäksi lukuvinkkien otsikot toimivat uuteen välilehteen avautuvina linkkeinä ja lukuvinkin voi merkata luetuksi/lukemattomaksi. Luetun vinkin kohdalle ilmaantuu päivämäärä, milloin vinkki on merkattu luetuksi. Lukuvinkkejä voi hakea joko niiden otsikon tai niille annettujen tagien perusteella.
 
 ## Loppuraportti
 
