@@ -19,3 +19,7 @@ Sovellus sisältää lisäys-, selaus-, ja poisto-toiminnallisuudet. Lisäksi lu
 [Definition of done](https://github.com/noorary/miniprojekti/wiki/Definition-of-Done)
 
 [Loppuraportti](https://docs.google.com/document/d/1SpE9FoA7GtH-zOl1cUN-1cCapzek7qBDIqDkpmRE5lM/edit?usp=sharing)
+
+
+## Käyttöohje paikallisesti
+Sovelluksessa käytetään Java 11 ja Gradle 6.3. Sovellus käynnistyy komennolla `./gradlew run` osoitteessa [http://localhost:4566](http://localhost:4566).
